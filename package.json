@@ -1,0 +1,10 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "upgradeUnixVersion": "node ./scripts/upgradeUnixVersion.js"
+  },
+  "type": "module"
+}
